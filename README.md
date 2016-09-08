@@ -9,6 +9,7 @@ PHP-Stanford-NLP that supports basic dependencies.
 To install:
 
 * Download the Stanford NLP parser
+* Checkout https://github.com/DrDub/php-nlgen in this folder
 * Set in compress.php the path to the parser and to the java command
 * Feed a text, one sentence per line through the web interface.
 
